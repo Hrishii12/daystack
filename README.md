@@ -86,5 +86,7 @@ daystack/
 
 ## Notes
 
+
+
 - Dates are plain `YYYY-MM-DD` strings in your local time zone; "today" is decided by the browser.
 - Deleting a task or ticket keeps linked notes and reminders and just unlinks them.
