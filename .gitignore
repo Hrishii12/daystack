@@ -2,3 +2,9 @@ node_modules
 dist
 *.log
 server/daystack.db*
+
+# e2e artifacts
+e2e/node_modules
+e2e/.tmp
+e2e/test-results
+e2e/playwright-report
